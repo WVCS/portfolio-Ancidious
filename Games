@@ -2,7 +2,7 @@
 
 <html>
  <head>
-   <LINK href = "style.css" rel="stylesheet"type=" text/css">
+   <LINK href = "games" rel="stylesheet"type=" text/css">
      </head>
  <h1> My Games: </h1>
    <ul>
